@@ -1,0 +1,4 @@
+for: es usa para hacer bucles, en ella se re quieren tres instrucciones que son la variable, la condicion y un ingrementador, la variable es donde se corre el ciclo, la condicion hace que se repita hasta que de false y  por ultimo el que se encarga de aumentar nuestra variable
+&&: es un operador logico y evalua las dos expreciones y devolvera true si las dos son verdaderas en caso contrarioi devolvera false
+||: es un operador logico que es como decir "o" compara las expreciones y arroja true si una de las dos es verdadera en caso contrario devolvera false
+!: este simbolo se usa para negar o para decir que la exprecion es lo contrario como por ejemplo "!== 'playa'" que es como decir"esto no es igual a playa"
