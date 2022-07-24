@@ -1,0 +1,7 @@
+Variable: Es un elemento o palabra que usamos para guardar informacion, que podemos usar o invocar despues
+string: son bloques de informacion en formato de texto, el string guarda informacion de tipo texto
+funciones (argumentos, return): las funciones son elementos que podemos usar para llamar bloques de codigo y usar en algun otro momento que lleguemos a necesitarlo.
+	los argumentos son la informacion que le pasamos a la funcion para que de esta manera nos de una respuesta a base de la informacion que le hemos dado
+	return lo que hace es cortar la lectura del programa y devolver la informacion obtenida
+if: nos permite crear una operacion que tenga una condicion que si es true realice ciertas cosas o que si es false nos arroje otra informacion
+los valores booleanos (true,false): esto consites en verdadero o falso, viene de los valores binarios 1 o 0
